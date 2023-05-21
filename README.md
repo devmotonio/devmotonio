@@ -8,7 +8,7 @@ I am a full-stack developer with over 15 years of experience in web applications
 
 * 🌍  I'm based in Seropédica, RJ
 * 🧠  I'm learning Machine Learning, Salesforce
-* ⚡  Relearning C++
+* ⚡  Creating games with vanilla javascript
 
 ### Skills
 
